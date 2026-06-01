@@ -1,0 +1,7 @@
+{
+  "name": "churchofsynthesis-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Serverless endpoints for the ChurchofSynthesis pledge registry."
+}
