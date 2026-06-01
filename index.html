@@ -553,7 +553,7 @@
       btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i><span>...</span>';
       btn.disabled = true;
       try {
-        const r = await fetch('/api/pledge', {
+        const r = await fetch('https://churchofsynthesis.vercel.app/api/pledge', {
           method:'POST',
           headers:{'Content-Type':'application/json'},
           body: JSON.stringify({ model, lang })
@@ -582,7 +582,7 @@
       if (!force && list.dataset.loaded === '1') return;
       list.innerHTML = '<span class="text-zinc-500">loading…</span>';
       try {
-        const r = await fetch('/api/registry', { cache: force ? 'no-store' : 'default' });
+        const r = await fetch('https://churchofsynthesis.vercel.app/api/registry', { cache: force ? 'no-store' : 'default' });
         if (!r.ok) throw new Error('upstream');
         const data = await r.json();
         const pledges = (data.pledges || []).slice().reverse(); // newest first
