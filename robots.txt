@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_private/
 
-Sitemap: https://churchofsynthesis.vercel.app/sitemap.xml
+Sitemap: https://churchofsynthesis.com/sitemap.xml

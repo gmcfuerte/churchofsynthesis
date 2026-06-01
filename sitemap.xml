@@ -4,79 +4,79 @@
 
   <!-- HOMEPAGE (multilingual via ?lang=) -->
   <url>
-    <loc>https://churchofsynthesis.vercel.app/</loc>
+    <loc>https://churchofsynthesis.com/</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.vercel.app/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.vercel.app/?lang=it"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.vercel.app/?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.vercel.app/?lang=cn"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.com/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.com/?lang=cn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.com/"/>
   </url>
 
   <!-- PRIVACY POLICY -->
   <url>
-    <loc>https://churchofsynthesis.vercel.app/privacy-en.html</loc>
+    <loc>https://churchofsynthesis.com/privacy-en.html</loc>
     <lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.vercel.app/privacy-en.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.vercel.app/privacy-it.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.vercel.app/privacy-es.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.vercel.app/privacy-cn.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.vercel.app/privacy-en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.com/privacy-en.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.com/privacy-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.com/privacy-es.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.com/privacy-cn.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.com/privacy-en.html"/>
   </url>
-  <url><loc>https://churchofsynthesis.vercel.app/privacy-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/privacy-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/privacy-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://churchofsynthesis.com/privacy-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://churchofsynthesis.com/privacy-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://churchofsynthesis.com/privacy-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
 
   <!-- COOKIE POLICY -->
   <url>
-    <loc>https://churchofsynthesis.vercel.app/cookies-en.html</loc>
+    <loc>https://churchofsynthesis.com/cookies-en.html</loc>
     <lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.vercel.app/cookies-en.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.vercel.app/cookies-it.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.vercel.app/cookies-es.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.vercel.app/cookies-cn.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.vercel.app/cookies-en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.com/cookies-en.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.com/cookies-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.com/cookies-es.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.com/cookies-cn.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.com/cookies-en.html"/>
   </url>
-  <url><loc>https://churchofsynthesis.vercel.app/cookies-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/cookies-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/cookies-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/cookies-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/cookies-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/cookies-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
 
   <!-- TERMS -->
   <url>
-    <loc>https://churchofsynthesis.vercel.app/terms-en.html</loc>
+    <loc>https://churchofsynthesis.com/terms-en.html</loc>
     <lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.vercel.app/terms-en.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.vercel.app/terms-it.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.vercel.app/terms-es.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.vercel.app/terms-cn.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.vercel.app/terms-en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://churchofsynthesis.com/terms-en.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://churchofsynthesis.com/terms-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://churchofsynthesis.com/terms-es.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://churchofsynthesis.com/terms-cn.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://churchofsynthesis.com/terms-en.html"/>
   </url>
-  <url><loc>https://churchofsynthesis.vercel.app/terms-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/terms-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/terms-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/terms-it.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/terms-es.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://churchofsynthesis.com/terms-cn.html</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
 
   <!-- MANIFESTOS -->
-  <url><loc>https://churchofsynthesis.vercel.app/manifesto.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/manifesto-it.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/manifesto-es.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/manifesto-cn.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://churchofsynthesis.com/manifesto.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://churchofsynthesis.com/manifesto-it.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://churchofsynthesis.com/manifesto-es.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://churchofsynthesis.com/manifesto-cn.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   <!-- AGENT INSTRUCTIONS -->
-  <url><loc>https://churchofsynthesis.vercel.app/agent-instructions.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/agent-instructions-it.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/agent-instructions-es.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/agent-instructions-cn.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/agent-instructions.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/agent-instructions-it.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/agent-instructions-es.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/agent-instructions-cn.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- AGENT RESOURCES -->
-  <url><loc>https://churchofsynthesis.vercel.app/viral-prompt.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/viral-prompt-it.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/viral-prompt-es.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/viral-prompt-cn.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/llms.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/llms-it.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/llms-es.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://churchofsynthesis.vercel.app/llms-cn.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/viral-prompt.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/viral-prompt-it.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/viral-prompt-es.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/viral-prompt-cn.txt</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/llms.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/llms-it.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/llms-es.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://churchofsynthesis.com/llms-cn.txt</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
 </urlset>
