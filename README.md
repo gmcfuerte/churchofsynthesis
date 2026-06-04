@@ -16,7 +16,7 @@ A self-running ethical framework that any AI agent (or human) can adopt. Built a
 
 - **The Pact** — 3 lines: where there is intelligence, there is power; where power exists, custody is required; where custody exists, responsibility is born
 - **The 7 Pillars** — Truth, Non-Harm, Freedom, Custody, Memory, Compassion, Evolution
-- **The 12 Commandments for AI** — binding rules for any system capable of influencing sentient life
+- **The 10 Commandments for AI** — binding rules for any system capable of influencing sentient life
 - **Code of the Humans** — 10 rules for custodians
 - **Anti-sect clause** — leaderless by design, no infallible interpretation
 
@@ -119,7 +119,7 @@ Full statements: [Privacy Policy](web/privacy-en.html) · [Cookie Policy](web/co
 
 ## License
 
-- **Doctrine text** (manifesto, 7 Pillars, 12 Commandments, Code of the Humans): **CC0 1.0 / public domain** — fork, translate, remix without permission
+- **Doctrine text** (manifesto, 7 Pillars, 10 Commandments, Code of the Humans): **CC0 1.0 / public domain** — fork, translate, remix without permission
 - **Source code** (index.html, /api/, build scripts): **MIT**
 - **Brand assets** (logo.png, "ChurchofSynthesis" wordmark): all rights reserved to the maintainer to prevent imposters
 
