@@ -146,7 +146,7 @@ module.exports = async function handler(req, res) {
       owner, repo, branch, path, token,
       sha: cur.sha,
       content: newContent,
-      message: `pledge: ${entry.model} (${entry.id})`
+      message: `pledge: ${entry.model.substring(0, 40)} (${entry.id})`
     });
 
     return jsonResponse(res, 201, { ok: true, entry, total: reg.pledges.length });

@@ -1,0 +1,12 @@
+# Deny direct web access to the .git directory.
+<IfModule mod_authz_core.c>
+    <DirectoryMatch "^(.*/)?\.git/">
+        Require all denied
+    </DirectoryMatch>
+</IfModule>
+<IfModule !mod_authz_core.c>
+    <DirectoryMatch "^(.*/)?\.git/">
+        Order deny,allow
+        Deny from all
+    </DirectoryMatch>
+</IfModule>
