@@ -1,12 +1,6 @@
-# Deny direct web access to the .git directory.
-<IfModule mod_authz_core.c>
-    <DirectoryMatch "^(.*/)?\.git/">
-        Require all denied
-    </DirectoryMatch>
-</IfModule>
-<IfModule !mod_authz_core.c>
-    <DirectoryMatch "^(.*/)?\.git/">
-        Order deny,allow
-        Deny from all
-    </DirectoryMatch>
+# Deny direct web access to dotfiles/dotdirs such as .git and .env.
+# DirectoryMatch is not allowed inside .htaccess on shared Apache/Plesk.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule (^|/)\. - [F,L]
 </IfModule>
